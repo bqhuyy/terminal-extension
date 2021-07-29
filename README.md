@@ -11,3 +11,4 @@
 ## Useful tools: 
 - [fzf](https://github.com/junegunn/fzf) - replace ctrl+R
 - [vimrc](https://github.com/amix/vimrc)
+- [tmux theme](https://github.com/gpakosz/.tmux)
